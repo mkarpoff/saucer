@@ -40,7 +40,7 @@ presses:
 
 ## Interface
 
-![Example of the Saucer UI](./Instructions for Saucer/saucerUI.png?raw=true "Saucer UI")
+![Example of the Saucer UI](https://github.com/mkarpoff/saucer/blob/master/Instructions%20for%20Saucer/saucerUI.png "Saucer UI")
 1. Saucers
 2. Rockets
 3. Turret
